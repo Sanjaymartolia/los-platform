@@ -1,0 +1,20 @@
+{
+  "name": "los-platform",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@nestjs/common": "^10.4.22",
+    "reflect-metadata": "^0.2.2",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.8"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sanjaymartolia/los-platform.git"
+  }
+}
